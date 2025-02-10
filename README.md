@@ -5,6 +5,7 @@ Un mini serveur pour discuter en ligne.
 Date début : 6 Janvier 2025  
 Date de fin : 2 Février 2025  
 Présentation et notation du projet le 10 Février 2025  
+**Note Obtenue : 92.59 / 100.00** -> Apparemment le front n'est pas assez élaboré même si le site est beau et fonctionnel. Voir screen à la fin des tâches.
 
 ### Bien lancer le projet
 #### Backend :
@@ -52,5 +53,11 @@ npm run dev
 | 🟢 Done | Une séquence de tests unitaires est fournie et facilement exécutable |  (branche tests unitaires)
 | 🟢 Done | La proportion de code source exécuté et testé est évaluée |  (branche tests unitaires)
 | 🟢 Done | Un fichier README est livré et le projet est documenté pour aider les nouveaux arrivants à le comprendre facilement |
-| 🟠 In progress | Prez |
+| 🟢 Done | Prez |
 | 🟢 Done | Projet complet |
+
+## Note obtenue : 92.59 / 100.00
+![c1](note/c1.png)
+![c2](note/c2.png)
+![c3](note/c3.png)
+![c4](note/c4.png)
